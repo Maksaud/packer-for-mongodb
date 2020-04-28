@@ -1,4 +1,4 @@
 source "https://supermarket.chef.io"
 
 
-cookbook 'mongo', git: 'git@github.com:Maksaud/NodeCookbookStarterCode.git'
+cookbook 'mongo', git: 'git@github.com:Maksaud/MongoCookbookStarterCode.git'
